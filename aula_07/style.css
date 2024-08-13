@@ -1,0 +1,27 @@
+h1{
+   color: cornflowerblue(124, 59, 124);
+}
+
+.container-1{
+ background-color: bisque(161, 193, 230);
+  border-style: solid;
+  border-width: 5px;
+  border-color: aliceblue;
+}
+
+.container-2{
+ background-color: darkcyan(155, 93, 155);
+  border-style: solid;
+  border-width: 5px;
+  border-color: aliceblue;
+}
+
+.container-3{
+  background-color: rgb(238, 238, 133);
+  border-style: solid;
+  border-width: 5px;
+  border-color: aliceblue;
+}
+.sobrenome{
+  color: rgb(255, 255, 255) ;
+}
