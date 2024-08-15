@@ -4,24 +4,23 @@ h1{
 
 .container-1{
  background-color: bisque(161, 193, 230);
-  border-style: solid;
-  border-width: 5px;
-  border-color: aliceblue;
+border: 2px solid blue;
 }
 
 .container-2{
  background-color: darkcyan(155, 93, 155);
   border-style: solid;
-  border-width: 5px;
-  border-color: aliceblue;
+  border-width: 2px;
+  border-color:blueviolet
 }
 
 .container-3{
-  background-color: rgb(238, 238, 133);
+  background-color: cadetblue (238, 238, 133);
   border-style: solid;
-  border-width: 5px;
-  border-color: aliceblue;
+  border-width: 2px;
+  border-color:brown
 }
 .sobrenome{
-  color: rgb(255, 255, 255) ;
+  background-color: blue (238, 238, 133);
+  color:aliceblue (255, 255, 255) ;
 }

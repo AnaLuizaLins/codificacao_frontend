@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=New+Amsterdam&display=swap');
+
+*{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400px;
+}
+
+.livro{
+    background-color:chocolate;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.um{
+    font-weight: inherit;
+}
+
+.dois{
+    font-weight: lighter;
+}
+
+.ters{
+    font-weight: 400px;
+}
