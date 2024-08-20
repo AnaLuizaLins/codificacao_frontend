@@ -1,0 +1,56 @@
+.container-1{
+    background-color:burlywood;
+    border-width: 4px;
+    border-color:darksalmon;
+    border-style: solid;
+    margin: 10px;
+
+  }
+  
+  .container-2{
+    background-color:brown;
+    border-width: 4px;
+    border-color: goldenrod;
+    border-style: solid;
+    margin: 10px;
+  }
+  
+  .container-3{
+    background-color:deepskyblue;
+    border-width: 4px;
+    border-color:blue;
+    border-style: solid;
+    margin: 10px;
+  }
+
+  .container-4{
+    background-color:aquamarine;
+    border-width: 4px;
+    border-color:aqua;
+    border-style: solid;
+    margin: 10px;
+  }
+
+  .container-5{
+    background-color:lightgreen;
+    border-width: 4px;
+    border-color: green;
+    border-style: solid;
+    margin: 10px;
+  }
+
+  .container-6{
+    background-color:indianred;
+    border-width: 4px;
+    border-color: firebrick;
+    border-style: solid;
+    margin: 10px;
+  }
+
+  .container-7{
+    background-color:blueviolet;
+    border-width: 4px;
+    border-color: deeppink;
+    border-style: solid;
+    margin: 10px;
+  }
