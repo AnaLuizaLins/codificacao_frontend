@@ -1,0 +1,14 @@
+body{
+    background-color: (30, 38%, 92%);
+}
+
+.container-1{
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    text-align: center;
+
+}
+
+.imagem{
+    text-align: center;
+}

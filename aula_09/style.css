@@ -1,0 +1,29 @@
+h1{
+    display: block;
+    background-color: blueviolet;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+}
+
+p{
+    background-color: darkmagenta;
+    text-transform: none; color: beige;
+}
+
+span{
+    background-color: blue;
+    text-transform: none; color: aliceblue;
+}
+.span2{
+    background-color: chocolate;
+}
+
+a{
+    display: inline-block;
+    background-color: darkgreen;
+    text-transform: uppercase; color: aliceblue;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+}
