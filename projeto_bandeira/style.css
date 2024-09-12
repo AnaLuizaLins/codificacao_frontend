@@ -1,0 +1,160 @@
+.bandeiras{
+    display: flex;
+}
+
+body{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.alagoas{
+display: flex;
+height: 400px;
+}
+
+.alagoas-1{
+width: 200px;
+background-color: red;
+}
+
+.alagoas-2{
+width: 200px;
+background-image: url("brasao-alagos.png");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.alagoas-3{
+    width: 200px;
+    background-color: blue
+}
+
+.franca{
+    display: flex;
+    height: 400px;
+}
+
+.franca-1{
+width: 200px;
+background-color: blue;
+}
+
+.franca-2{
+width: 200px;
+}
+
+.franca-3{
+width: 200px;
+background-color: red;
+}
+
+.italia{
+display: flex;
+height: 400px;
+}
+
+.italia-1{
+width: 200px;
+background-color: green
+}
+
+.italia-2{
+width: 200px;
+}
+
+.italia-3{
+width: 200px;
+background-color: red;
+}
+
+.alemanha{
+display: flex;
+height: 400px;
+flex-direction: column;
+}
+
+.alemanha-1{
+width: 600px;
+background-color: black;
+height: 600px;
+}
+
+.alemanha-2{
+width: 600px;
+background-color: red;
+height: 600px;
+}
+
+.alemanha-3{
+width: 600px;
+background-color: yellow;
+height: 600px;
+}
+
+.nigeria{
+display: flex;
+height: 400px;
+}
+    
+.nigeria-1{
+width: 200px;
+background-color: green
+}
+    
+.nigeria-2{
+width: 200px;
+    
+}
+    
+.nigeria-3{
+ width: 200px;
+background-color: green
+}
+
+.holanda{
+display: flex;
+height: 400px;
+flex-direction: column;
+}
+        
+.holanda-1{
+width: 600px;
+background-color: red;
+height: 600px;
+}
+        
+.holanda-2{
+width: 600px;
+height: 600px;
+}
+        
+.holanda-3{
+width: 600px;
+background-color: blue;
+height: 600px;
+}
+
+.austria{
+display: flex;
+height: 400px;
+flex-direction: column;
+}
+            
+.austria-1{
+width: 600px;
+background-color: red;
+height: 600px;
+}
+            
+.austria-2{
+width: 600px;
+height: 600px;
+}
+            
+.austria-3{
+width: 600px;
+background-color: red;
+height: 600px;
+}
