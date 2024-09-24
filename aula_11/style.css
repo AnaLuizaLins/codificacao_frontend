@@ -1,0 +1,22 @@
+.container{
+    display: flex; 
+    flex-direction: column;
+}
+
+a{
+    color: blue;
+    text-align: nome; /*tirar o estili de link*/
+}
+
+a:visited{ /*toda vez que o site for visitado, fica vermelho*/
+    color: red;
+}
+
+a:hover{ /*toda vez que o mause passa por cima, age de uma maneira diferente */
+    background-color: black;
+    color: white;
+}
+
+a:active{ /*Quando clicar em cima doitem, age de uma forma diferente*/
+    background-color: green;
+}
