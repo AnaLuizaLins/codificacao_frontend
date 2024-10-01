@@ -1,0 +1,60 @@
+body{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.Alagoas{
+ display: flex;
+ height: 400px;
+}
+
+.Alagoas-1{
+width: 200px;
+height: 400px;
+background-color: rgb(212, 31, 31);
+}
+
+.Alagoas-2{
+    width: 200px;
+    height: 400px;
+    background-image: url(./alagoas-oficial-brasao-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Alagoas-3{
+    width: 200px;
+    height:400px;
+    background-color: blue;
+}
+
+.Franca{
+    display: flex;
+    
+}
+
+.franca-1{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(48, 11, 212);
+    
+}
+
+
+.franca-2{
+    width: 200px;
+    height: 400px;
+    background-size: contain;
+    background-position: center;
+}
+
+.franca-3{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(190, 33, 33);
+}

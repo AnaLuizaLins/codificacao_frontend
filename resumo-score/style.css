@@ -1,0 +1,78 @@
+:root{
+/*Primary*/
+--Light-red: hsl(0, 100%, 67%);
+--Orangey-yellow: hsl(39, 100%, 56%);
+--Green-teal: hsl(166, 100%, 37%);
+--Cobalt-blue: hsl(234, 85%, 45%);
+
+/*Gradients*/
+--Light-slate-blue: hsl(252, 100%, 67%); /*Bacground*/
+--Light-royal-blue: hsl(241, 81%, 54%); /*Bacground*/
+--Violet-blue: hsla(256, 72%, 46%, 1); /*Circle*/
+--Persian-blue: hsla(241, 72%, 46%, 0); /*Circle*/
+}
+
+body{
+    border-color: var(--Grey-900);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.container{
+    background: linear-gradient(135deg, var(--Light-slate-blue), var(--Light-royal-blue)) ;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px; 
+}
+
+.summary{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px; 
+}
+
+.reaction{
+    display: flex;
+}
+
+.reaction p:first-child{
+    color: var(--Light-red);
+    margin: 15px;
+}
+
+.memory{
+    display: flex;
+}
+
+.memory p:first-child{
+    color: var(--Orangey-yellow);
+    margin: 15px;
+}
+
+.verbal{
+    display: flex;
+}
+
+.verbal p:first-child{
+    color: var(--Green-teal);
+    margin: 15px;
+}
+
+.visual{
+    display: flex;
+}
+
+.visual p:first-child{
+    color: var(--Cobalt-blue);
+    margin: 15px;
+}
+
+
+

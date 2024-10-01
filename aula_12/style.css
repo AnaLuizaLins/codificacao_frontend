@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: nome;
+    list-style: nome;
+}
+p{
+    color: white;
+    background-color: brown;
+    margin: 10px;
+}
+
+.cinza{
+    background-color: grey;
+}
+#verde{
+    background-color: green;
+}
+
+ul > li {
+    background-color: red;
+    margin: 10px;
+}
+
+.box > form > input{
+    background-color:aqua;
+}
+
+h1 + p{ /*Ele pega o seletor irmão e tranforma */
+    background-color: violet;
+}
+
+h ~ p { /*Ele modifica todos os irmãos que vem após; Não se aplicno que tem "class" */
+    border-color: orange;
+}
+
