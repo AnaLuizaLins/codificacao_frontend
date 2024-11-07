@@ -1,0 +1,18 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+    outline-color:aqua
+}
